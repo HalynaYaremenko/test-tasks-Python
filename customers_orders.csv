@@ -1,0 +1,10 @@
+CustomerID,Name,City,OrderID,Amount
+1,Anna,Kyiv,,
+2,Oleh,Lviv,,
+3,Iryna,Odesa,,
+4,Petro,Dnipro,,
+1,,,101.0,250.0
+2,,,102.0,400.0
+1,,,103.0,180.0
+3,,,104.0,
+4,,,105.0,120.0
